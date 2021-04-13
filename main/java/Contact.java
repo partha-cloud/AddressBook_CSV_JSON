@@ -56,3 +56,8 @@ public class Contact {
         return "First Name : " +this.firstName + ", Last Name : " +this.lastName + ", Address : " +this.address + ", City : " +city + ", State : " +this.state + ", Zip : " +this.zip + ", Phone Number : " +this.phoneNumber + ", Email : " +this.email;
     }
 }
+
+
+
+
+

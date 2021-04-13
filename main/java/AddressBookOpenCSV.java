@@ -55,6 +55,5 @@ public class AddressBookOpenCSV {
             }
         } else return false;
 
-    }}
-
-
+    }
+}
